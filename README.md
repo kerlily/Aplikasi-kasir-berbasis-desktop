@@ -1,5 +1,5 @@
-English
+English ==
 This application is a dedicated point-of-sale (POS) system designed specifically for perfume shops, developed using Java for its robust processing capabilities and MySQL to ensure secure and efficient data management. It streamlines daily sales transactions, inventory tracking, and customer management, making it a powerful tool for shop owners who want to provide a seamless and personalized shopping experience. The application's user-friendly interface and reliable performance cater to the unique needs of fragrance retailers, enhancing both operational efficiency and customer satisfaction
 
-Indonesia
+Indonesia ==
 Aplikasi ini merupakan sistem kasir point-of-sale (POS) yang dirancang khusus untuk toko parfum, dikembangkan menggunakan Java untuk kemampuan pemrosesan yang andal dan MySQL untuk memastikan manajemen data yang aman dan efisien. Aplikasi ini memudahkan transaksi penjualan harian, pelacakan inventaris, dan manajemen pelanggan, menjadikannya alat yang kuat bagi pemilik toko yang ingin memberikan pengalaman berbelanja yang mulus dan personal. Dengan antarmuka yang ramah pengguna dan kinerja yang andal, aplikasi ini memenuhi kebutuhan unik dari para pengecer parfum, meningkatkan efisiensi operasional dan kepuasan pelanggan.
